@@ -6,7 +6,7 @@ A collection of Android applications built and maintained by **tqthangdev**.
 
 | App        | Version | Download                                                                                                 |
 | ---------- | ------- | -------------------------------------------------------------------------------------------------------- |
-| **Y2Tune** | v1.0.0  | [Download APK](https://github.com/tqthangdev/build-apk-app/raw/refs/heads/main/Y2Tune/Y2Tune-v1.0.0.apk) |
+| **Y2Tune** | v1.0.0  | [Download APK](https://github.com/tqthangdev/build-apk-app/raw/refs/heads/main/Y2Tune/Y2Tune-v1.0.1.apk) |
 
 More applications will be added over time.
 
